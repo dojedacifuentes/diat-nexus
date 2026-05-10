@@ -1,0 +1,27 @@
+{
+  "name": "diat-nexus-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plataforma educativa interactiva sobre Derecho, Inteligencia Artificial y Gobernanza Algorítmica para el Programa DIAT - Facultad de Derecho PUCV.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "11.18.2",
+    "lucide-react": "0.468.0",
+    "next": "16.2.6",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "2.15.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.20",
+    "postcss": "8.5.10",
+    "tailwindcss": "3.4.17"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  }
+}
